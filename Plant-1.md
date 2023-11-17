@@ -1,1 +1,1 @@
-This plant was not watered.
+Jordan watered this plant.
